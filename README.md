@@ -38,3 +38,8 @@ O projeto utiliza de:
 ## Objetivo
 
 Projeto criado a fim de praticar lógica de programação e consolidar meus conhecimentos adiquiridos nos fundamentos da linguagem Python.
+
+
+## Demonstração
+
+![Jogo da Velha no Terminal](assets/printjogodavelha.png)
