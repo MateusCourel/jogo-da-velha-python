@@ -3,7 +3,7 @@
 Projeto desenvolvido durante meu aprendizado em Fundamentos de Python (Python Essentials 1).
 
 
-##Sobre o projeto
+## Sobre o projeto
 
 Basicamente, é um jogo da velha, executado em um terminal, ao qual o jogador joga ontra o computador.
 
@@ -18,7 +18,7 @@ O projeto utiliza de:
 - Uso da biblioteca colorama para estilização no terminal
 
 
-##Funcionalidades:
+## Funcionalidades:
 
 - Validação de entrada de dados
 - Disputa entre jogador VS computador
@@ -27,7 +27,7 @@ O projeto utiliza de:
 - Interface com cores para estilização
 
 
-##Como executar:
+## Como executar:
 
 1. IDLE Python, ou  VS Code
 2. Instalar a biblioteca colorama no shell da plataforma: pip install colorama
@@ -35,6 +35,6 @@ O projeto utiliza de:
 
 
 
-##Objetivo
+## Objetivo
 
 Projeto criado a fim de praticar lógica de programação e consolidar meus conhecimentos adiquiridos nos fundamentos da linguagem Python.
