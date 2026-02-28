@@ -42,4 +42,4 @@ Projeto criado a fim de praticar lógica de programação e consolidar meus conh
 
 ## Demonstração
 
-![Jogo da Velha no Terminal](assets/printjogodavelha.png)
+![Jogo da Velha no Terminal](assets/printjogodavelha.PNG)
