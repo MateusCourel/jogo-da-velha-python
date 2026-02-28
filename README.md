@@ -35,6 +35,6 @@ O projeto utiliza de:
 
 
 
-## 📚 Objetivo
+##Objetivo
 
 Projeto criado a fim de praticar lógica de programação e consolidar meus conhecimentos adiquiridos nos fundamentos da linguagem Python.
